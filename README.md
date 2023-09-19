@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science Projects
 - 🌱 I’m currently learning end to end Data Science projects and deployment
 - 💞️ I’m looking to collaborate on ... solving industry problems using data science
+- I am also interested in LLMs
 - 📫 How to reach me ... narahari412@gmail.com
 
 <!---
